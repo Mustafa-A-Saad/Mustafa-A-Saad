@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Interships**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mustafa-A-Saad](https://github.com/Mustafa-A-Saad)
+- 👨‍💻 All of my projects are available at [https://github.com/Mustafa-A-Saad?tab=repositories](https://github.com/Mustafa-A-Saad)
 
 - 💬 Ask me about **Data Science, AI**
 
